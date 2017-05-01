@@ -1,0 +1,3 @@
+region_homepage:
+    path:     /
+    defaults: { _controller: regionBundle:Default:index }
